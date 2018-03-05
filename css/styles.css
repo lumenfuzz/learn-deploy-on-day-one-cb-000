@@ -141,6 +141,17 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess-cover.png");
 }
 
+#patrick-j-louis-card {
+  background-image: url("https://i.imgur.com/yYRp4JC.jpg");
+}
+
+#patrick-j-louis-cover {
+  /*This image overrides the placeholder image*/
+  background-image: url("https://i.imgur.com/daNbhvh.png");
+  background-color: #2280ff
+}
+
+
 #avi-flombaum-card {
 }
 
